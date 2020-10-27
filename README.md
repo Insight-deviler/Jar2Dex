@@ -1,9 +1,11 @@
 # Jar2Dex
 Easy way of converting jar to dex in android!!!!
+
 Strictly for personal use only.
 
 # About
 This app is made possible by ApkBuilder library made by Agus Jcoderz.
+
 All the credits goes to Agus.
 
 # Usage
@@ -21,7 +23,8 @@ All the credits goes to Agus.
 We don't collect any user data.
 
 # Notice
-You can also extract rt.jar file from rhe jdk8 linux x86 version from Oracle website
+You can also extract rt.jar file from rhe jdk8 linux x86 version from Oracle website.
+
 Email for queries insightagri10@gmail.com
 
 
