@@ -16,8 +16,11 @@ All the credits goes to Agus.
  
 2. Now add your jar file named classes.jar into input folder.
 3. Download the rt.jar file from the [link](https://www.dropbox.com/s/ppvic47dbsap0wq/rt.jar?dl=1) {which is about 63.9mb} to Classpath folder.
-4. Open the app and now click Compile.
-5. Now your dex file is ready!!!
+4. You also need to place android.jar file for setting target SDK. place android.jar file in the Classpath folder.
+
+
+5. Open the app and now click Compile.
+6. Now your dex file is ready!!!
 
 # Privacy policy
 We don't collect any user data.
