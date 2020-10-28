@@ -1,12 +1,7 @@
 # Jar2Dex
-Easy way of converting jar to dex in android!!!!
+Easy way of converting .jar or .aar to .dex in android!!!!
 
-Strictly for personal use only.
-
-# About
-This app is made possible by ApkBuilder library made by Agus Jcoderz.
-
-All the credits goes to Agus.
+Strictly for personal and educational use only.
 
 # Usage
 1. Create a folder named Jar2Dex.
@@ -17,6 +12,8 @@ All the credits goes to Agus.
 
 # Privacy policy
 We don't collect any user data.
+
+I'm not responsible for any harm caused due to the use of this app.
 
 # Notice
 You can also extract rt.jar file from the jdk8 linux x86 version from Oracle website.
