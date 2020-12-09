@@ -3,7 +3,7 @@ Easy way of converting .jar or .aar to .dex in android!!!!
 
 Strictly for personal and educational use only.
 
-Even though the app can run on android devices with API 19. The app will work only on devices running android 8 amd above.
+Even though the app can run on android devices with API 19. The app will work only on devices running android 8 and above.
 
 In latest release, rt.jar file is extracted automatically if you don't have the file.
 You still require android.jar file
